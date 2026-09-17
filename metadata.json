@@ -1,0 +1,6 @@
+{
+  "name": "Projek Kepemimpinan – Refleksi Pengalaman Belajar",
+  "description": "Portfolio refleksi pembelajaran Kelompok 4 PPG Calon Guru dalam merancang, mengimplementasikan, dan merefleksikan projek daur ulang RePlast di UPT SDN 067241 Medan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
